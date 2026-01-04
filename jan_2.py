@@ -12,6 +12,4 @@ print(full)
 random=np.random.random((3,4))
 print(random)
 
-sequence=np.arange(0,20,2)
-print(sequence)
 
