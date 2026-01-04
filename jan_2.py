@@ -9,7 +9,6 @@ print(ones)
 full=np.full((3,4),7)
 print(full)
 
-random=np.random.random((3,4))
-print(random)
+
 
 
